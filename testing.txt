@@ -1,0 +1,16 @@
+# HTML is made up of HTML ELEMENTS
+# HTML ELEMENTS consists of opening tag and closing tag. How ever some ELEMENTS would have 
+only one tag.
+# Now the tag would not be show on a page, how ever tag is teling what type of ELEMENTS is.
+# So its say, you want to had a image to your page, or you want to had a FORM to your page,
+  or you would wanna had a HEADING to ypur Page.
+# You get the idea so you would first need to create a TAG name and than within that TAG 
+  whatever you write, the browser would actualy display that on a page.
+# And all HTML realy is, is just the bunch of ELEMANTS TAG together.
+
+
+## In order to follow this course you will need a TEXT EDITOR.
+
+
+# Now there is obviously many TEXT EDITOR thats you can get, but the most populer provbly one
+  is the NOTEPAD++      
