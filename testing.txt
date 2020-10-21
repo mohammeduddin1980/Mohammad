@@ -10,6 +10,7 @@ only one tag.
 
 
 ## In order to follow this course you will need a TEXT EDITOR.
+## In order to follow this course you will need a TEXT EDITOR.
 
 
 # Now there is obviously many TEXT EDITOR thats you can get, but the most populer provbly one
