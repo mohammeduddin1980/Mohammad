@@ -6,4 +6,4 @@ repository because cloning copies all files, including the actual repository.
 git status ----> lists all files ready to be committed, which have been added to staging, and files not currently being tracked by Git. 
 Use this command to view the state of your working directory and staging area.
 
- zzzzzzzzzzzzzzzzzzzzzzz
+                            pppppppppppppppp
